@@ -1,0 +1,6 @@
+c:\users\muhammad waleed khan\documents\visual studio 2015\Projects\WaleedVPAssignment1\WaleedVPAssignment1\bin\Debug\WaleedVPAssignment1.exe.config
+c:\users\muhammad waleed khan\documents\visual studio 2015\Projects\WaleedVPAssignment1\WaleedVPAssignment1\bin\Debug\WaleedVPAssignment1.exe
+c:\users\muhammad waleed khan\documents\visual studio 2015\Projects\WaleedVPAssignment1\WaleedVPAssignment1\bin\Debug\WaleedVPAssignment1.pdb
+c:\users\muhammad waleed khan\documents\visual studio 2015\Projects\WaleedVPAssignment1\WaleedVPAssignment1\obj\Debug\WaleedVPAssignment1.csprojResolveAssemblyReference.cache
+c:\users\muhammad waleed khan\documents\visual studio 2015\Projects\WaleedVPAssignment1\WaleedVPAssignment1\obj\Debug\WaleedVPAssignment1.exe
+c:\users\muhammad waleed khan\documents\visual studio 2015\Projects\WaleedVPAssignment1\WaleedVPAssignment1\obj\Debug\WaleedVPAssignment1.pdb
