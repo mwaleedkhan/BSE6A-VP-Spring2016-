@@ -1,0 +1,1 @@
+include ':app', ':myreceiverudp', ':MyReceiver', ':tritonus-share-0.3.7-1'
